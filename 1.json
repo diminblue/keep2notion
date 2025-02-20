@@ -7,12 +7,12 @@
             "birthday": 268272000000,
             "_id": "60fcd03695217436fa50390f"
         },
-        "id": "60fcd03695217436fa50390f_9223370296981948807_tr",
+        "id": "60fcd03695217436fa50390f_9223370296881760807_tr",
         "feel": 3,
-        "calorie": 72,
-        "duration": 28800,
-        "startTime": 1739844027000,
-        "endTime": 1739872827000,
+        "calorie": 107,
+        "duration": 1355,
+        "startTime": 1739971660000,
+        "endTime": 1739973015000,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -36,9 +36,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE6WXsUrEQBCG+3uK5eordndmN4mdDyDYi8UJKVKciIlwIL67iV5h8a3+eEWaCfx82ZnMlzzsQnhfrxD2T+Nxme/H17vp+W0Z9+EmpJQP3/eW6TTOy/H08lUu8Uf59jzNl+pa/Dj8GhgrBVqkwLX6d2CKFOhI6AphGiiwImFVCPmROyTsJEIMHJBwkM6wxy5HbnOUGA0jM0JuZSGSZ9GY0iTK0hjvxnwLkZkfvDJlVShzh5E9U/YSJY5QGphykChxiHJCyq0sRGJ7ckbKrfzfs8zOlC5RcmRhyqJQGo567piyu4KyZ8peenswct3ajWWuRDpGsnBMMg5vImsoR3MOU7J0TLMOjrqxdkzyTqM9LB6TzMNzaawek9xjeJbO7nHJPc6R7B6X3NOIZPe45B7el87ucck9/Oni7B6X3MOfBs7ucck9jUh2j0vu4bensHuK5J7IkeyeIrknJoxk9xTJPRHnsrB7iuSexJTsniK5p0HJ7imSeyJu9cruqZJ7uD2V3VO1vx2OZPfUK/53KrunXtyze/wEhwWGnOcNAAA=",
-            "averageHeartRate": 117.0,
-            "maxHeartRate": 144,
+            "heartRates": "H4sIAAAAAAAAE6XZu24UQRCF4dxPMXLsoLurb0XGAyCRIwIjbbCBEWIXyRLi3dltHBD8xRwNgZOyVDrTt8/d/vSwbT9vP9v2+OX0fL18PH3/cP7643p63N5tOfnTn99dzy+ny/X55dsqt/RX+f3r+fJWvRV/Pf27oVFDS9TwVt1vmCs1rJiwCgkd+3UM2KWAiRoODDiUIcydGjomdCWhYcKceJaTlBFHMRcMeS8LLSe2NE5pSsqSg9UdLG9lLLll55RdStmw5eSUU0lZcBdm55QuzTieFCVjynv56CIqBVPey0JL/PBSOWWVxhJnvDRO2ZSUxikHpxzSuuSWk1NOaV3ihrwd2sFZrrTEk8jYG5PA4d1jgTgSOQXXpbE5pqCTM6dkdkxzBzekMTwmyVNQHmN6TLKHF1Fle6pkjxVsyfZUyZ4ysCXbUzV7OCXbUyV7+HCrbE+V7Em4ISvbUxV7+O+ryvRUhR7Hz24sT1PkCToyPE2Bx3G2G7vTFHeCjsxOU9iZuMgbq9MUdSYeQY3RaQo6juuxszldMceR787kdIUc/urO4nRFnKAjg9MVcCbfcoJrjuINr57O3HSFm2BmWJuuaDPRr8HYDAWbiW4PtmYo1vDMDKZmKNQEX83SDEWaICNDMxRogo7szFCcmXg+DnZmKM5wxsnOTMUZnpnJzkzFGd6Fk52ZijM8jpOdmcedmezMlJzhjOzMVJzhfe3sjP/H3cYZGtce03AknaVx6W6TcCidqXHpbsNPfs7WuHS3CVoyNi5hg8R68KomXW0yPwWl6F1NutwkfgVLwcta0q43/Mqbgre1JF1w+DZyfz6MnhWFWcIFn1PwvJYkevAQvg10kFPCJ5il4IEtSdcczpnZn1Xfz8lzlFmgVd/vyYsps0GrfnSOMiu06vs9+dU7s0Orvttz8LxnlmjV93vytxe2aNX3e/IcleAfO0W69qAcubBGq350fRbmaNUP52SPVv3weDJIq76fk/koTNKqH13zFpBkCkn8EJEtEMmOX4KyRf/seQPp4fNv0u4X3s4cAAA=",
+            "averageHeartRate": 100.0,
+            "maxHeartRate": 133,
             "wearableDevices": [
                 {
                     "macAddress": "08:40:F2:D9:90:D4",
