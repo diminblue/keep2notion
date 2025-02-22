@@ -7,12 +7,12 @@
             "birthday": 268272000000,
             "_id": "60fcd03695217436fa50390f"
         },
-        "id": "60fcd03695217436fa50390f_9223370296881760807_tr",
+        "id": "60fcd03695217436fa50390f_9223370296710121807_tr",
         "feel": 3,
-        "calorie": 107,
-        "duration": 1355,
-        "startTime": 1739971660000,
-        "endTime": 1739973015000,
+        "calorie": 120,
+        "duration": 1408,
+        "startTime": 1740142807000,
+        "endTime": 1740144654000,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -26,8 +26,8 @@
             "place": null,
             "stateValue": 0,
             "stars": 0,
-            "exist": false,
-            "public": false
+            "public": false,
+            "exist": false
         },
         "eventInfos": [],
         "liveSessionId": null,
@@ -36,9 +36,9 @@
         "doubtfulScore": 0.0,
         "flags": [],
         "heartRate": {
-            "heartRates": "H4sIAAAAAAAAE6XZu24UQRCF4dxPMXLsoLurb0XGAyCRIwIjbbCBEWIXyRLi3dltHBD8xRwNgZOyVDrTt8/d/vSwbT9vP9v2+OX0fL18PH3/cP7643p63N5tOfnTn99dzy+ny/X55dsqt/RX+f3r+fJWvRV/Pf27oVFDS9TwVt1vmCs1rJiwCgkd+3UM2KWAiRoODDiUIcydGjomdCWhYcKceJaTlBFHMRcMeS8LLSe2NE5pSsqSg9UdLG9lLLll55RdStmw5eSUU0lZcBdm55QuzTieFCVjynv56CIqBVPey0JL/PBSOWWVxhJnvDRO2ZSUxikHpxzSuuSWk1NOaV3ihrwd2sFZrrTEk8jYG5PA4d1jgTgSOQXXpbE5pqCTM6dkdkxzBzekMTwmyVNQHmN6TLKHF1Fle6pkjxVsyfZUyZ4ysCXbUzV7OCXbUyV7+HCrbE+V7Em4ISvbUxV7+O+ryvRUhR7Hz24sT1PkCToyPE2Bx3G2G7vTFHeCjsxOU9iZuMgbq9MUdSYeQY3RaQo6juuxszldMceR787kdIUc/urO4nRFnKAjg9MVcCbfcoJrjuINr57O3HSFm2BmWJuuaDPRr8HYDAWbiW4PtmYo1vDMDKZmKNQEX83SDEWaICNDMxRogo7szFCcmXg+DnZmKM5wxsnOTMUZnpnJzkzFGd6Fk52ZijM8jpOdmcedmezMlJzhjOzMVJzhfe3sjP/H3cYZGtce03AknaVx6W6TcCidqXHpbsNPfs7WuHS3CVoyNi5hg8R68KomXW0yPwWl6F1NutwkfgVLwcta0q43/Mqbgre1JF1w+DZyfz6MnhWFWcIFn1PwvJYkevAQvg10kFPCJ5il4IEtSdcczpnZn1Xfz8lzlFmgVd/vyYsps0GrfnSOMiu06vs9+dU7s0Orvttz8LxnlmjV93vytxe2aNX3e/IcleAfO0W69qAcubBGq350fRbmaNUP52SPVv3weDJIq76fk/koTNKqH13zFpBkCkn8EJEtEMmOX4KyRf/seQPp4fNv0u4X3s4cAAA=",
-            "averageHeartRate": 100.0,
-            "maxHeartRate": 133,
+            "heartRates": "H4sIAAAAAAAAE6XZvY5TMRCG4X6vItp6C9vjv6HjApDoEcUipUixCJEgrYS4dxKzBcU78MkptpmVRt+xHT8+Pp8eDoef17/D4fHL8fly/nj8/uH09cfl+Hh4d5j+9Odfl9PL8Xx5fvl2q+aW/iq/fz2d36rX4q+nf/XzSf0sUb9r9b/9cs7UsGLAKgTMCRN2TNilhEYNByYcSsLcqKFjQpcSDpzkxLOc9jPmgiFvZaFlxZbGKe2OlI1Ttv31mDun7FJKbjk55VRSFlyT2TmlKykNU5aMKW9lIWXBlgVT3spCy4QtK6es+7+e0jhl21+XZXDKIaXEjbxMTjn31+V11w42c2XzxXVp7I0p4OSE02MBOZI5CcfSGB2T1Mm4Lo3ZMcmdICXDY5o8HVsyPabZgzNe2Z4q2cOLqLI9VbFn4pmgMj1VoiehZpXpqRI9CbfLyvRUjR4eSqanSvTwGqpMT5XoKbgRNaanafTgDtyYnqbRgw/emJ4m0RO0ZHqaRI/hjDemp0n0FNyIGtPTJHosOqQHp3QlJbdkerpEDz94Z3q69rqD09OZnq7RgztRD9547njl6UxPv4OezvR0iZ6Ev/HB9AyNHm7J9AzptYffRwfbMzR7OCXbMzR7uCXbMxR7HH88g+kZEj0JD1mD6RkSPcz4ZHqmRA8fXybTMxV6eCgnyzMlefisMVmeqcjDN0OT4ZkKPI5bxmR3puIOD6QzO66w43yXw+q4dMOG7zvO6LiCDs+MszmumBM8NZPjCjmO69FZHFfEmTyOwTWbAo7zPU6K7tkUcYL72RRctCWFnChncNOWJHMq3zil4K4tKerwFOUUXLYlhR1+1bsqHORU4IkmKbhuS4o8Eze3nFmeVd999sz0rPp2TsZn1bd7sj6rvjtHmf1Z9e3xZIFWfbdnYYNWfXc8S/CZpygMzeADADu06ts5WaJV3x5PtmjVN8HMhTVa9e2c7NGqbzKcLQDJFJAcz9jZApBs//otW/TpRwEpsMMCj0zxKHr2wCOTPOI1b4FH9ubRw+ffzm8B6NcdAAA=",
+            "averageHeartRate": 102.0,
+            "maxHeartRate": 143,
             "wearableDevices": [
                 {
                     "macAddress": "08:40:F2:D9:90:D4",
@@ -65,7 +65,45 @@
         "feedbacks": null,
         "playType": null,
         "dataType": "traditionalGymTraining",
-        "badgeAchievementCard": null,
+        "badgeAchievementCard": {
+            "cardName": "运动成就徽章",
+            "cardType": "BADGE_ACHIEVEMENT_CARD",
+            "data": {
+                "jumpHomeUrl": "https://m.gotokeep.com/glory-page/badge/home?fullscreen=true&userId=60fcd03695217436fa50390f&visitUserId=60fcd03695217436fa50390f&refer=complete_card",
+                "showCard": true,
+                "bindProduct": "0",
+                "badgeIdList": "6152f04a9c1c33000147511a",
+                "cardList": [
+                    {
+                        "badgeId": "6152f04a9c1c33000147511a",
+                        "badgeType": null,
+                        "name": "活力满满",
+                        "status": null,
+                        "desc": "每周累计运动 3 天即可达成",
+                        "picture": "https://static1.keepcdn.com/glory-cms/2021/9/28/1632825394417d8d0iiq5_720x720.png",
+                        "notAchievePicture": null,
+                        "modelUrl": null,
+                        "condition": null,
+                        "conditionEvent": null,
+                        "metric": null,
+                        "totalValue": null,
+                        "startTime": 0,
+                        "endTime": 0,
+                        "userId": null,
+                        "overValue": null,
+                        "percent": null,
+                        "progress": null,
+                        "doneTime": 1740142807000,
+                        "showMsg": "第37次达成",
+                        "schema": "https://m.gotokeep.com/glory-page/badge/detail?fullscreen=true&userId=60fcd03695217436fa50390f&refer=complete_card&badgeId=6152f04a9c1c33000147511a&curOrder=1&badgeType=perfect_week",
+                        "trainType": "training",
+                        "productId": null,
+                        "bindProduct": "0",
+                        "sort": 0
+                    }
+                ]
+            }
+        },
         "trainingCourseType": "workout",
         "trainingSource": "others",
         "groups": [],
